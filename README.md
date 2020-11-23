@@ -40,3 +40,5 @@ https://github.com/v1s1t0r1sh3r3/airgeddon
 ShellIntel @ crEAP.py (last commit on 26 Oct 2016)
 https://github.com/Shellntel/scripts/blob/master/crEAP.py
 
+## To be added later maybe?
+https://github.com/InfamousSYN/rogue
