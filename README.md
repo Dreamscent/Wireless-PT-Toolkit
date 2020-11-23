@@ -26,13 +26,16 @@ curl https://github.com/Dreamscent/Wireless-PT-Toolkit/raw/main/install_all.sh |
 
 
 ## Credits to the original authors and sources
-Latest versions in brackets. If the author has newer software than those listed here, please use the latest versions instead.
+Latest versions in brackets. If the author has newer software than those listed here, some tweaks might be required
 
 evilsocket @ bettercap (v2.28)
 https://github.com/bettercap/bettercap
 
 s0lst1c3 @ eaphammer (v1.13.0)
 https://github.com/s0lst1c3/eaphammer
+
+v1s1t0r1sh3r3 @ airgeddon (v10.30)
+https://github.com/v1s1t0r1sh3r3/airgeddon
 
 ShellIntel @ crEAP.py (last commit on 26 Oct 2016)
 https://github.com/Shellntel/scripts/blob/master/crEAP.py

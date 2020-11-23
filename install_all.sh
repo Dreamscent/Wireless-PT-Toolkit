@@ -16,5 +16,15 @@ wget https://github.com/bettercap/bettercap/releases/download/v2.28/bettercap_li
 rm bettercap_*
 sudo sh -c "sudo ./bettercap -eval 'caplets.update; ui.update; q'"
 
+# Install airgeddon
+
+cd
+git clone --depth 1 https://github.com/v1s1t0r1sh3r3/airgeddon.git
+cd airgeddon
+
 # Download crEAP
 wget https://github.com/Shellntel/scripts/raw/master/crEAP.py
+
+
+# Just install the dependencies and exit
+sudo bash airgeddon.sh
