@@ -1,5 +1,5 @@
  Wireless-PT-Toolkit
-For quick setup of wireless PT stuff on Kali Linux(Tested on Kali 2020.4). This is still a work in progress. Check back soon!
+For quick setup of wireless PT stuff on Kali Linux(Tested on Kali 2020.4).
 
 ## Contents
 1. RTL8812AU drivers installation script for my Archer AC600 T2U Plus
@@ -16,7 +16,7 @@ curl https://github.com/Dreamscent/Wireless-PT-Toolkit/raw/main/rtl8812au_instal
 ~~~
 
 
-### Bettercap Installation
+### Tools Installation
 
 
 ~~~sh
