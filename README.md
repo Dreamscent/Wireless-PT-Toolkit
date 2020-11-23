@@ -1,4 +1,4 @@
-# Wireless-PT-Toolkit
+ Wireless-PT-Toolkit
 For quick setup of wireless PT stuff on Kali Linux(Tested on Kali 2020.4). This is still a work in progress. Check back soon!
 
 ## Contents
@@ -11,11 +11,17 @@ For quick setup of wireless PT stuff on Kali Linux(Tested on Kali 2020.4). This 
 
 Only install you are using this chipset on your wireless card
 
-~~~curl something | sh~~~
+~~~sh
+curl https://github.com/Dreamscent/Wireless-PT-Toolkit/raw/main/rtl8812au_install.sh | sh
+~~~
+
 
 ### Bettercap Installation
 
-~~~curl https://<tbc>/install_all.sh | sh~~~
+
+~~~sh
+curl https://github.com/Dreamscent/Wireless-PT-Toolkit/raw/main/install_all.sh | sh
+~~~
 
 
 
@@ -30,5 +36,4 @@ https://github.com/s0lst1c3/eaphammer
 
 ShellIntel @ crEAP.py (last commit on 26 Oct 2016)
 https://github.com/Shellntel/scripts/blob/master/crEAP.py
-
 
